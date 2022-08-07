@@ -71,8 +71,7 @@ public static void main(String[] args) {
 //	
 //	System.out.println("forEachメソッド");
 //	// forEachメソッド
-//	foodList.forEach(System.out::println);
-	
+//	foodList.forEach(System.out::println);	
 	
 }
 }
